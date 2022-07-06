@@ -1,5 +1,7 @@
 # 简介
 
+**此版本已停止维护，请转至 V3 版本 [https://github.com/KaguraMika/bili-suit-v3](https://github.com/KaguraMika/bili-suit-v3)**
+
 **傻瓜式，扫码登录**
 
 **尽量模拟了抢购过程（风控 -1）**
