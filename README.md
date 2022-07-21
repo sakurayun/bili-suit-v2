@@ -1,5 +1,7 @@
 # 简介
 
+**由于API变更，此脚本已失效**
+
 **此版本已停止维护，请转至 V3 版本 [https://github.com/KaguraMika/bili-suit-v3](https://github.com/KaguraMika/bili-suit-v3)**
 
 **傻瓜式，扫码登录**
